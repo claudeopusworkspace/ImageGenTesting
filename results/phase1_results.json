@@ -1,0 +1,151 @@
+{
+  "test_flux_schnell": {
+    "status": "error",
+    "error": "401 Client Error. (Request ID: Root=1-69b8c72f-50ea80e919f0e4771514d565;254e185d-7f00-4795-8ad4-29769da33d5b)\n\nCannot access gated repo for url https://huggingface.co/black-forest-labs/FLUX.1-schnell/resolve/main/model_index.json.\nAccess to model black-forest-labs/FLUX.1-schnell is restricted. You must have access to it and be authenticated to access it. Please log in."
+  },
+  "test_flux_dev": {
+    "status": "error",
+    "error": "401 Client Error. (Request ID: Root=1-69b8c730-585a73be4dbdee8d34233912;e09300ea-3ce8-47b8-b1fd-0c13c96a8b79)\n\nCannot access gated repo for url https://huggingface.co/black-forest-labs/FLUX.1-dev/resolve/main/model_index.json.\nAccess to model black-forest-labs/FLUX.1-dev is restricted. You must have access to it and be authenticated to access it. Please log in."
+  },
+  "sdxl_base": {
+    "prompts": {
+      "pixel_sword": {
+        "time_seconds": 4.03,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/sdxl_base/pixel_sword.png",
+        "gpu_mem_mb": 6735
+      },
+      "character_front": {
+        "time_seconds": 3.18,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/sdxl_base/character_front.png",
+        "gpu_mem_mb": 6735
+      },
+      "tileset_topdown": {
+        "time_seconds": 2.94,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/sdxl_base/tileset_topdown.png",
+        "gpu_mem_mb": 6734
+      },
+      "platformer_character": {
+        "time_seconds": 2.99,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/sdxl_base/platformer_character.png",
+        "gpu_mem_mb": 6734
+      },
+      "isometric_building": {
+        "time_seconds": 2.96,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/sdxl_base/isometric_building.png",
+        "gpu_mem_mb": 6734
+      },
+      "ui_button": {
+        "time_seconds": 3.33,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/sdxl_base/ui_button.png",
+        "gpu_mem_mb": 6734
+      },
+      "enemy_creature": {
+        "time_seconds": 3.19,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/sdxl_base/enemy_creature.png",
+        "gpu_mem_mb": 6734
+      },
+      "environment_bg": {
+        "time_seconds": 3.03,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/sdxl_base/environment_bg.png",
+        "gpu_mem_mb": 6734
+      }
+    },
+    "status": "success"
+  },
+  "test_pixart_sigma": {
+    "status": "error",
+    "error": "`tiktoken` is required to read a `tiktoken` file. Install it with `pip install tiktoken`."
+  },
+  "pixart_sigma": {
+    "prompts": {
+      "pixel_sword": {
+        "time_seconds": 2.59,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/pixart_sigma/pixel_sword.png",
+        "gpu_mem_mb": 12365
+      },
+      "character_front": {
+        "time_seconds": 2.02,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/pixart_sigma/character_front.png",
+        "gpu_mem_mb": 12365
+      },
+      "tileset_topdown": {
+        "time_seconds": 2.02,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/pixart_sigma/tileset_topdown.png",
+        "gpu_mem_mb": 12365
+      },
+      "platformer_character": {
+        "time_seconds": 2.02,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/pixart_sigma/platformer_character.png",
+        "gpu_mem_mb": 12365
+      },
+      "isometric_building": {
+        "time_seconds": 2.02,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/pixart_sigma/isometric_building.png",
+        "gpu_mem_mb": 12365
+      },
+      "ui_button": {
+        "time_seconds": 2.02,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/pixart_sigma/ui_button.png",
+        "gpu_mem_mb": 12365
+      },
+      "enemy_creature": {
+        "time_seconds": 2.03,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/pixart_sigma/enemy_creature.png",
+        "gpu_mem_mb": 12365
+      },
+      "environment_bg": {
+        "time_seconds": 2.03,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/pixart_sigma/environment_bg.png",
+        "gpu_mem_mb": 12365
+      }
+    },
+    "status": "success"
+  },
+  "flux1_dev_4bit": {
+    "prompts": {
+      "pixel_sword": {
+        "time_seconds": 28.74,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/flux1_dev_4bit/pixel_sword.png",
+        "gpu_mem_mb": 9
+      },
+      "character_front": {
+        "time_seconds": 19.18,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/flux1_dev_4bit/character_front.png",
+        "gpu_mem_mb": 9
+      },
+      "tileset_topdown": {
+        "time_seconds": 18.02,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/flux1_dev_4bit/tileset_topdown.png",
+        "gpu_mem_mb": 9
+      },
+      "platformer_character": {
+        "time_seconds": 18.04,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/flux1_dev_4bit/platformer_character.png",
+        "gpu_mem_mb": 9
+      },
+      "isometric_building": {
+        "time_seconds": 18.12,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/flux1_dev_4bit/isometric_building.png",
+        "gpu_mem_mb": 9
+      },
+      "ui_button": {
+        "time_seconds": 18.22,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/flux1_dev_4bit/ui_button.png",
+        "gpu_mem_mb": 9
+      },
+      "enemy_creature": {
+        "time_seconds": 18.28,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/flux1_dev_4bit/enemy_creature.png",
+        "gpu_mem_mb": 9
+      },
+      "environment_bg": {
+        "time_seconds": 18.08,
+        "file": "/workspace/ImageGenTesting/outputs/phase1_baselines/flux1_dev_4bit/environment_bg.png",
+        "gpu_mem_mb": 9
+      }
+    },
+    "status": "success",
+    "model_id": "camenduru/FLUX.1-dev-ungated",
+    "note": "4-bit NF4 quantized transformer, CPU offload"
+  }
+}

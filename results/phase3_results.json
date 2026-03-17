@@ -1,0 +1,212 @@
+{
+  "bg_removal": {
+    "data": {
+      "flux_pixel_sword": {
+        "time_seconds": 15.94,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/bg_removal/flux_pixel_sword_nobg.png",
+        "original": "/workspace/ImageGenTesting/outputs/phase1_baselines/flux1_dev_4bit/pixel_sword.png",
+        "has_alpha": true
+      },
+      "flux_character": {
+        "time_seconds": 1.49,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/bg_removal/flux_character_nobg.png",
+        "original": "/workspace/ImageGenTesting/outputs/phase1_baselines/flux1_dev_4bit/character_front.png",
+        "has_alpha": true
+      },
+      "flux_enemy": {
+        "time_seconds": 1.1,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/bg_removal/flux_enemy_nobg.png",
+        "original": "/workspace/ImageGenTesting/outputs/phase1_baselines/flux1_dev_4bit/enemy_creature.png",
+        "has_alpha": true
+      },
+      "pixart_character": {
+        "time_seconds": 1.51,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/bg_removal/pixart_character_nobg.png",
+        "original": "/workspace/ImageGenTesting/outputs/phase1_baselines/pixart_sigma/character_front.png",
+        "has_alpha": true
+      },
+      "pixart_isometric": {
+        "time_seconds": 1.48,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/bg_removal/pixart_isometric_nobg.png",
+        "original": "/workspace/ImageGenTesting/outputs/phase1_baselines/pixart_sigma/isometric_building.png",
+        "has_alpha": true
+      },
+      "sdxl_pixelart_sword": {
+        "time_seconds": 1.55,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/bg_removal/sdxl_pixelart_sword_nobg.png",
+        "original": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixel_art_xl/pixel_sword.png",
+        "has_alpha": true
+      },
+      "sdxl_pixelart_character": {
+        "time_seconds": 1.5,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/bg_removal/sdxl_pixelart_character_nobg.png",
+        "original": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixel_art_xl/character_front.png",
+        "has_alpha": true
+      }
+    },
+    "status": "success"
+  },
+  "seed_consistency": {
+    "data": {
+      "seed_42": {
+        "time": 4.89,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/seed_consistency/warrior_seed42.png"
+      },
+      "seed_123": {
+        "time": 3.74,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/seed_consistency/warrior_seed123.png"
+      },
+      "seed_456": {
+        "time": 3.74,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/seed_consistency/warrior_seed456.png"
+      },
+      "seed_789": {
+        "time": 3.74,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/seed_consistency/warrior_seed789.png"
+      },
+      "seed_1024": {
+        "time": 3.73,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/seed_consistency/warrior_seed1024.png"
+      },
+      "repro_0": {
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/seed_consistency/warrior_repro_0.png"
+      },
+      "repro_1": {
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/seed_consistency/warrior_repro_1.png"
+      }
+    },
+    "status": "success"
+  },
+  "sdxl_multipose": {
+    "data": {
+      "front": {
+        "time": 3.77,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/multi_pose/knight_front.png"
+      },
+      "side": {
+        "time": 3.77,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/multi_pose/knight_side.png"
+      },
+      "back": {
+        "time": 3.79,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/multi_pose/knight_back.png"
+      },
+      "attack": {
+        "time": 3.91,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/multi_pose/knight_attack.png"
+      },
+      "hurt": {
+        "time": 3.86,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/multi_pose/knight_hurt.png"
+      }
+    },
+    "status": "success"
+  },
+  "flux_multipose": {
+    "data": {
+      "front": {
+        "time": 27.54,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/flux_multi_pose/knight_front.png"
+      },
+      "side": {
+        "time": 19.56,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/flux_multi_pose/knight_side.png"
+      },
+      "back": {
+        "time": 18.73,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/flux_multi_pose/knight_back.png"
+      },
+      "attack": {
+        "time": 18.89,
+        "file": "/workspace/ImageGenTesting/outputs/phase3_consistency/flux_multi_pose/knight_attack.png"
+      }
+    },
+    "status": "success"
+  },
+  "downscale": {
+    "data": {
+      "flux_sword_32": {
+        "nearest": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_sword_32_nearest.png",
+        "lanczos": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_sword_32_lanczos.png",
+        "nearest_8x": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_sword_32_nearest_8x.png",
+        "target_size": [
+          32,
+          32
+        ]
+      },
+      "flux_sword_64": {
+        "nearest": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_sword_64_nearest.png",
+        "lanczos": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_sword_64_lanczos.png",
+        "nearest_8x": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_sword_64_nearest_8x.png",
+        "target_size": [
+          64,
+          64
+        ]
+      },
+      "flux_char_64": {
+        "nearest": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_char_64_nearest.png",
+        "lanczos": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_char_64_lanczos.png",
+        "nearest_8x": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_char_64_nearest_8x.png",
+        "target_size": [
+          64,
+          64
+        ]
+      },
+      "flux_char_128": {
+        "nearest": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_char_128_nearest.png",
+        "lanczos": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_char_128_lanczos.png",
+        "nearest_8x": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_char_128_nearest_8x.png",
+        "target_size": [
+          128,
+          128
+        ]
+      },
+      "flux_enemy_48": {
+        "nearest": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_enemy_48_nearest.png",
+        "lanczos": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_enemy_48_lanczos.png",
+        "nearest_8x": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/flux_enemy_48_nearest_8x.png",
+        "target_size": [
+          48,
+          48
+        ]
+      },
+      "sdxl_sword_32": {
+        "nearest": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/sdxl_sword_32_nearest.png",
+        "lanczos": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/sdxl_sword_32_lanczos.png",
+        "nearest_8x": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/sdxl_sword_32_nearest_8x.png",
+        "target_size": [
+          32,
+          32
+        ]
+      },
+      "sdxl_sword_64": {
+        "nearest": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/sdxl_sword_64_nearest.png",
+        "lanczos": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/sdxl_sword_64_lanczos.png",
+        "nearest_8x": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/sdxl_sword_64_nearest_8x.png",
+        "target_size": [
+          64,
+          64
+        ]
+      },
+      "sdxl_char_64": {
+        "nearest": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/sdxl_char_64_nearest.png",
+        "lanczos": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/sdxl_char_64_lanczos.png",
+        "nearest_8x": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/sdxl_char_64_nearest_8x.png",
+        "target_size": [
+          64,
+          64
+        ]
+      },
+      "sdxl_char_128": {
+        "nearest": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/sdxl_char_128_nearest.png",
+        "lanczos": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/sdxl_char_128_lanczos.png",
+        "nearest_8x": "/workspace/ImageGenTesting/outputs/phase3_consistency/downscale/sdxl_char_128_nearest_8x.png",
+        "target_size": [
+          128,
+          128
+        ]
+      }
+    },
+    "status": "success"
+  }
+}

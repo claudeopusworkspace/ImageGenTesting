@@ -1,0 +1,227 @@
+{
+  "sdxl_pixelart_redmond": {
+    "prompts": {
+      "pixel_sword": {
+        "time_seconds": 3.96,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixelart_redmond/pixel_sword.png",
+        "gpu_mem_mb": 6897
+      },
+      "character_front": {
+        "time_seconds": 2.96,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixelart_redmond/character_front.png",
+        "gpu_mem_mb": 6897
+      },
+      "tileset_topdown": {
+        "time_seconds": 2.95,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixelart_redmond/tileset_topdown.png",
+        "gpu_mem_mb": 6896
+      },
+      "platformer_character": {
+        "time_seconds": 2.94,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixelart_redmond/platformer_character.png",
+        "gpu_mem_mb": 6896
+      },
+      "isometric_building": {
+        "time_seconds": 2.95,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixelart_redmond/isometric_building.png",
+        "gpu_mem_mb": 6896
+      },
+      "ui_button": {
+        "time_seconds": 2.95,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixelart_redmond/ui_button.png",
+        "gpu_mem_mb": 6896
+      },
+      "enemy_creature": {
+        "time_seconds": 2.96,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixelart_redmond/enemy_creature.png",
+        "gpu_mem_mb": 6896
+      },
+      "environment_bg": {
+        "time_seconds": 2.95,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixelart_redmond/environment_bg.png",
+        "gpu_mem_mb": 6897
+      }
+    },
+    "status": "success"
+  },
+  "sdxl_pixel_art_xl": {
+    "prompts": {
+      "pixel_sword": {
+        "time_seconds": 3.88,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixel_art_xl/pixel_sword.png",
+        "gpu_mem_mb": 6898
+      },
+      "character_front": {
+        "time_seconds": 3.75,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixel_art_xl/character_front.png",
+        "gpu_mem_mb": 6899
+      },
+      "tileset_topdown": {
+        "time_seconds": 3.75,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixel_art_xl/tileset_topdown.png",
+        "gpu_mem_mb": 6899
+      },
+      "platformer_character": {
+        "time_seconds": 3.77,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixel_art_xl/platformer_character.png",
+        "gpu_mem_mb": 6898
+      },
+      "isometric_building": {
+        "time_seconds": 3.85,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixel_art_xl/isometric_building.png",
+        "gpu_mem_mb": 6899
+      },
+      "ui_button": {
+        "time_seconds": 3.82,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixel_art_xl/ui_button.png",
+        "gpu_mem_mb": 6899
+      },
+      "enemy_creature": {
+        "time_seconds": 3.77,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixel_art_xl/enemy_creature.png",
+        "gpu_mem_mb": 6898
+      },
+      "environment_bg": {
+        "time_seconds": 3.85,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/sdxl_pixel_art_xl/environment_bg.png",
+        "gpu_mem_mb": 6899
+      }
+    },
+    "status": "success"
+  },
+  "flux_game_assets_v2": {
+    "prompts": {
+      "pixel_sword": {
+        "time_seconds": 29.76,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_game_assets_v2/pixel_sword.png",
+        "gpu_mem_mb": 9
+      },
+      "character_front": {
+        "time_seconds": 20.23,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_game_assets_v2/character_front.png",
+        "gpu_mem_mb": 9
+      },
+      "tileset_topdown": {
+        "time_seconds": 19.49,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_game_assets_v2/tileset_topdown.png",
+        "gpu_mem_mb": 9
+      },
+      "platformer_character": {
+        "time_seconds": 19.57,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_game_assets_v2/platformer_character.png",
+        "gpu_mem_mb": 9
+      },
+      "isometric_building": {
+        "time_seconds": 19.47,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_game_assets_v2/isometric_building.png",
+        "gpu_mem_mb": 9
+      },
+      "ui_button": {
+        "time_seconds": 19.69,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_game_assets_v2/ui_button.png",
+        "gpu_mem_mb": 9
+      },
+      "enemy_creature": {
+        "time_seconds": 19.41,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_game_assets_v2/enemy_creature.png",
+        "gpu_mem_mb": 9
+      },
+      "environment_bg": {
+        "time_seconds": 19.41,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_game_assets_v2/environment_bg.png",
+        "gpu_mem_mb": 9
+      }
+    },
+    "status": "success"
+  },
+  "flux_2d_game_assets": {
+    "prompts": {
+      "pixel_sword": {
+        "time_seconds": 28.11,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_2d_game_assets/pixel_sword.png",
+        "gpu_mem_mb": 9
+      },
+      "character_front": {
+        "time_seconds": 19.77,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_2d_game_assets/character_front.png",
+        "gpu_mem_mb": 9
+      },
+      "tileset_topdown": {
+        "time_seconds": 19.26,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_2d_game_assets/tileset_topdown.png",
+        "gpu_mem_mb": 9
+      },
+      "platformer_character": {
+        "time_seconds": 19.26,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_2d_game_assets/platformer_character.png",
+        "gpu_mem_mb": 9
+      },
+      "isometric_building": {
+        "time_seconds": 19.21,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_2d_game_assets/isometric_building.png",
+        "gpu_mem_mb": 9
+      },
+      "ui_button": {
+        "time_seconds": 19.22,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_2d_game_assets/ui_button.png",
+        "gpu_mem_mb": 9
+      },
+      "enemy_creature": {
+        "time_seconds": 19.4,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_2d_game_assets/enemy_creature.png",
+        "gpu_mem_mb": 9
+      },
+      "environment_bg": {
+        "time_seconds": 19.49,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_2d_game_assets/environment_bg.png",
+        "gpu_mem_mb": 9
+      }
+    },
+    "status": "success"
+  },
+  "flux_modern_pixel_art": {
+    "prompts": {
+      "pixel_sword": {
+        "time_seconds": 29.81,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_modern_pixel_art/pixel_sword.png",
+        "gpu_mem_mb": 9
+      },
+      "character_front": {
+        "time_seconds": 20.51,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_modern_pixel_art/character_front.png",
+        "gpu_mem_mb": 9
+      },
+      "tileset_topdown": {
+        "time_seconds": 20.4,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_modern_pixel_art/tileset_topdown.png",
+        "gpu_mem_mb": 9
+      },
+      "platformer_character": {
+        "time_seconds": 20.41,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_modern_pixel_art/platformer_character.png",
+        "gpu_mem_mb": 9
+      },
+      "isometric_building": {
+        "time_seconds": 20.27,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_modern_pixel_art/isometric_building.png",
+        "gpu_mem_mb": 9
+      },
+      "ui_button": {
+        "time_seconds": 20.3,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_modern_pixel_art/ui_button.png",
+        "gpu_mem_mb": 9
+      },
+      "enemy_creature": {
+        "time_seconds": 20.37,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_modern_pixel_art/enemy_creature.png",
+        "gpu_mem_mb": 9
+      },
+      "environment_bg": {
+        "time_seconds": 20.31,
+        "file": "/workspace/ImageGenTesting/outputs/phase2_loras/flux_modern_pixel_art/environment_bg.png",
+        "gpu_mem_mb": 9
+      }
+    },
+    "status": "success"
+  }
+}
