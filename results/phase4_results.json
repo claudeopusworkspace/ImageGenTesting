@@ -257,5 +257,64 @@
       }
     },
     "status": "success"
+  },
+  "qwen_edit_comfyui": {
+    "results": {
+      "backend": "comfyui",
+      "quantization": "fp8_e4m3fn",
+      "expr_happy": {
+        "time": 82.04,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/qwen_edit_comfyui/expr_happy.png",
+        "status": "success"
+      },
+      "expr_sad": {
+        "status": "error",
+        "error": "No output image found"
+      },
+      "expr_angry": {
+        "time": 50.02,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/qwen_edit_comfyui/expr_angry.png",
+        "status": "success"
+      },
+      "expr_surprised": {
+        "time": 48.02,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/qwen_edit_comfyui/expr_surprised.png",
+        "status": "success"
+      },
+      "expr_embarrassed": {
+        "time": 50.02,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/qwen_edit_comfyui/expr_embarrassed.png",
+        "status": "success"
+      },
+      "expr_determined": {
+        "status": "error",
+        "error": "No output image found"
+      },
+      "scene_winter_outfit": {
+        "time": 50.03,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/qwen_edit_comfyui/scene_winter_outfit.png",
+        "status": "success"
+      },
+      "scene_cafe_scene": {
+        "time": 48.02,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/qwen_edit_comfyui/scene_cafe_scene.png",
+        "status": "success"
+      },
+      "scene_outdoor_scene": {
+        "time": 50.03,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/qwen_edit_comfyui/scene_outdoor_scene.png",
+        "status": "success"
+      },
+      "cg_serving_coffee": {
+        "status": "error",
+        "error": "No output image found"
+      },
+      "cg_reading_book": {
+        "time": 50.04,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/qwen_edit_comfyui/cg_reading_book.png",
+        "status": "success"
+      }
+    },
+    "status": "success"
   }
 }
