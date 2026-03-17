@@ -126,48 +126,59 @@
   "omnigen2": {
     "results": {
       "expr_happy": {
-        "status": "error",
-        "error": "Command '['/usr/bin/gcc', '/tmp/tmpun_as_0j/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmpun_as_0j/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
-      },
-      "expr_sad": {
-        "status": "error",
-        "error": "Command '['/usr/bin/gcc', '/tmp/tmpjpb84x7h/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmpjpb84x7h/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+        "time": 43.4,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/omnigen2/expr_happy.png",
+        "status": "success"
       },
       "expr_angry": {
-        "status": "error",
-        "error": "Command '['/usr/bin/gcc', '/tmp/tmp1ddbrx1c/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmp1ddbrx1c/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+        "time": 38.6,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/omnigen2/expr_angry.png",
+        "status": "success"
+      },
+      "expr_sad": {
+        "time": 60.26,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/omnigen2/expr_sad.png",
+        "status": "success"
       },
       "expr_surprised": {
-        "status": "error",
-        "error": "Command '['/usr/bin/gcc', '/tmp/tmpserr8446/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmpserr8446/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+        "time": 38.65,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/omnigen2/expr_surprised.png",
+        "status": "success"
       },
       "expr_embarrassed": {
-        "status": "error",
-        "error": "Command '['/usr/bin/gcc', '/tmp/tmp6nnsb3y6/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmp6nnsb3y6/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+        "time": 38.24,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/omnigen2/expr_embarrassed.png",
+        "status": "success"
       },
       "expr_determined": {
-        "status": "error",
-        "error": "Command '['/usr/bin/gcc', '/tmp/tmp8fjfes2z/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmp8fjfes2z/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+        "time": 37.13,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/omnigen2/expr_determined.png",
+        "status": "success"
       },
       "scene_winter_outfit": {
-        "status": "error",
-        "error": "Command '['/usr/bin/gcc', '/tmp/tmpklwy1oqc/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmpklwy1oqc/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+        "time": 37.25,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/omnigen2/scene_winter_outfit.png",
+        "status": "success"
       },
       "scene_cafe_scene": {
-        "status": "error",
-        "error": "Command '['/usr/bin/gcc', '/tmp/tmpe5suq2xe/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmpe5suq2xe/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+        "time": 37.27,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/omnigen2/scene_cafe_scene.png",
+        "status": "success"
       },
       "scene_outdoor_scene": {
-        "status": "error",
-        "error": "Command '['/usr/bin/gcc', '/tmp/tmp3xldvu6a/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmp3xldvu6a/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+        "time": 37.3,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/omnigen2/scene_outdoor_scene.png",
+        "status": "success"
       },
       "cg_serving_coffee": {
-        "status": "error",
-        "error": "Command '['/usr/bin/gcc', '/tmp/tmpwbkel4pp/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmpwbkel4pp/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+        "time": 27.08,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/omnigen2/cg_serving_coffee.png",
+        "status": "success"
       },
       "cg_reading_book": {
-        "status": "error",
-        "error": "Command '['/usr/bin/gcc', '/tmp/tmpdycs3uy7/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmpdycs3uy7/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+        "time": 27.03,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/omnigen2/cg_reading_book.png",
+        "status": "success"
       }
     },
     "status": "success"
