@@ -2,57 +2,57 @@
   "flux_kontext": {
     "results": {
       "expr_happy": {
-        "time": 34.68,
+        "time": 48.5,
         "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/expr_happy.png",
         "status": "success"
       },
       "expr_sad": {
-        "time": 33.2,
+        "time": 36.8,
         "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/expr_sad.png",
         "status": "success"
       },
       "expr_angry": {
-        "time": 32.43,
+        "time": 33.36,
         "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/expr_angry.png",
         "status": "success"
       },
       "expr_surprised": {
-        "time": 32.23,
+        "time": 33.33,
         "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/expr_surprised.png",
         "status": "success"
       },
       "expr_embarrassed": {
-        "time": 32.29,
+        "time": 33.19,
         "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/expr_embarrassed.png",
         "status": "success"
       },
       "expr_determined": {
-        "time": 32.34,
+        "time": 33.37,
         "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/expr_determined.png",
         "status": "success"
       },
       "scene_winter_outfit": {
-        "time": 32.74,
+        "time": 33.53,
         "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/scene_winter_outfit.png",
         "status": "success"
       },
       "scene_cafe_scene": {
-        "time": 32.62,
+        "time": 33.34,
         "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/scene_cafe_scene.png",
         "status": "success"
       },
       "scene_outdoor_scene": {
-        "time": 32.59,
+        "time": 33.24,
         "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/scene_outdoor_scene.png",
         "status": "success"
       },
       "cg_serving_coffee": {
-        "time": 32.83,
+        "time": 33.36,
         "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/cg_serving_coffee.png",
         "status": "success"
       },
       "cg_reading_book": {
-        "time": 32.68,
+        "time": 33.35,
         "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/cg_reading_book.png",
         "status": "success"
       }
