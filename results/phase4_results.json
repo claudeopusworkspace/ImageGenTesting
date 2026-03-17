@@ -1,0 +1,250 @@
+{
+  "flux_kontext": {
+    "results": {
+      "expr_happy": {
+        "time": 34.68,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/expr_happy.png",
+        "status": "success"
+      },
+      "expr_sad": {
+        "time": 33.2,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/expr_sad.png",
+        "status": "success"
+      },
+      "expr_angry": {
+        "time": 32.43,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/expr_angry.png",
+        "status": "success"
+      },
+      "expr_surprised": {
+        "time": 32.23,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/expr_surprised.png",
+        "status": "success"
+      },
+      "expr_embarrassed": {
+        "time": 32.29,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/expr_embarrassed.png",
+        "status": "success"
+      },
+      "expr_determined": {
+        "time": 32.34,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/expr_determined.png",
+        "status": "success"
+      },
+      "scene_winter_outfit": {
+        "time": 32.74,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/scene_winter_outfit.png",
+        "status": "success"
+      },
+      "scene_cafe_scene": {
+        "time": 32.62,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/scene_cafe_scene.png",
+        "status": "success"
+      },
+      "scene_outdoor_scene": {
+        "time": 32.59,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/scene_outdoor_scene.png",
+        "status": "success"
+      },
+      "cg_serving_coffee": {
+        "time": 32.83,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/cg_serving_coffee.png",
+        "status": "success"
+      },
+      "cg_reading_book": {
+        "time": 32.68,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/flux_kontext/cg_reading_book.png",
+        "status": "success"
+      }
+    },
+    "status": "success"
+  },
+  "test_qwen_edit": {
+    "status": "error",
+    "error": "'dict' object has no attribute 'to_dict'"
+  },
+  "longcat_edit": {
+    "results": {
+      "expr_happy": {
+        "time": 58.32,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/longcat_edit/expr_happy.png",
+        "status": "success"
+      },
+      "expr_sad": {
+        "time": 46.62,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/longcat_edit/expr_sad.png",
+        "status": "success"
+      },
+      "expr_angry": {
+        "time": 44.88,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/longcat_edit/expr_angry.png",
+        "status": "success"
+      },
+      "expr_surprised": {
+        "time": 30.3,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/longcat_edit/expr_surprised.png",
+        "status": "success"
+      },
+      "expr_embarrassed": {
+        "time": 25.76,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/longcat_edit/expr_embarrassed.png",
+        "status": "success"
+      },
+      "expr_determined": {
+        "time": 25.27,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/longcat_edit/expr_determined.png",
+        "status": "success"
+      },
+      "scene_winter_outfit": {
+        "time": 25.13,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/longcat_edit/scene_winter_outfit.png",
+        "status": "success"
+      },
+      "scene_cafe_scene": {
+        "time": 24.99,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/longcat_edit/scene_cafe_scene.png",
+        "status": "success"
+      },
+      "scene_outdoor_scene": {
+        "time": 24.99,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/longcat_edit/scene_outdoor_scene.png",
+        "status": "success"
+      },
+      "cg_serving_coffee": {
+        "time": 25.66,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/longcat_edit/cg_serving_coffee.png",
+        "status": "success"
+      },
+      "cg_reading_book": {
+        "time": 25.39,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/longcat_edit/cg_reading_book.png",
+        "status": "success"
+      }
+    },
+    "status": "success"
+  },
+  "omnigen2": {
+    "results": {
+      "expr_happy": {
+        "status": "error",
+        "error": "Command '['/usr/bin/gcc', '/tmp/tmpun_as_0j/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmpun_as_0j/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+      },
+      "expr_sad": {
+        "status": "error",
+        "error": "Command '['/usr/bin/gcc', '/tmp/tmpjpb84x7h/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmpjpb84x7h/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+      },
+      "expr_angry": {
+        "status": "error",
+        "error": "Command '['/usr/bin/gcc', '/tmp/tmp1ddbrx1c/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmp1ddbrx1c/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+      },
+      "expr_surprised": {
+        "status": "error",
+        "error": "Command '['/usr/bin/gcc', '/tmp/tmpserr8446/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmpserr8446/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+      },
+      "expr_embarrassed": {
+        "status": "error",
+        "error": "Command '['/usr/bin/gcc', '/tmp/tmp6nnsb3y6/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmp6nnsb3y6/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+      },
+      "expr_determined": {
+        "status": "error",
+        "error": "Command '['/usr/bin/gcc', '/tmp/tmp8fjfes2z/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmp8fjfes2z/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+      },
+      "scene_winter_outfit": {
+        "status": "error",
+        "error": "Command '['/usr/bin/gcc', '/tmp/tmpklwy1oqc/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmpklwy1oqc/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+      },
+      "scene_cafe_scene": {
+        "status": "error",
+        "error": "Command '['/usr/bin/gcc', '/tmp/tmpe5suq2xe/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmpe5suq2xe/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+      },
+      "scene_outdoor_scene": {
+        "status": "error",
+        "error": "Command '['/usr/bin/gcc', '/tmp/tmp3xldvu6a/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmp3xldvu6a/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+      },
+      "cg_serving_coffee": {
+        "status": "error",
+        "error": "Command '['/usr/bin/gcc', '/tmp/tmpwbkel4pp/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmpwbkel4pp/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+      },
+      "cg_reading_book": {
+        "status": "error",
+        "error": "Command '['/usr/bin/gcc', '/tmp/tmpdycs3uy7/cuda_utils.c', '-O3', '-shared', '-fPIC', '-Wno-psabi', '-o', '/tmp/tmpdycs3uy7/cuda_utils.cpython-312-x86_64-linux-gnu.so', '-l:libcuda.so.1', '-L/workspace/ImageGenTesting/.venv/lib/python3.12/site-packages/triton/backends/nvidia/lib', '-L/usr/lib/x86_64"
+      }
+    },
+    "status": "success"
+  },
+  "ipadapter_sdxl": {
+    "results": {
+      "expr_happy": {
+        "time": 3.52,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/ipadapter_sdxl/expr_happy.png",
+        "status": "success"
+      },
+      "expr_sad": {
+        "time": 2.57,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/ipadapter_sdxl/expr_sad.png",
+        "status": "success"
+      },
+      "expr_angry": {
+        "time": 2.59,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/ipadapter_sdxl/expr_angry.png",
+        "status": "success"
+      },
+      "expr_surprised": {
+        "time": 2.6,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/ipadapter_sdxl/expr_surprised.png",
+        "status": "success"
+      },
+      "expr_embarrassed": {
+        "time": 2.58,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/ipadapter_sdxl/expr_embarrassed.png",
+        "status": "success"
+      },
+      "expr_determined": {
+        "time": 2.58,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/ipadapter_sdxl/expr_determined.png",
+        "status": "success"
+      },
+      "cg_serving_coffee": {
+        "time": 3.15,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/ipadapter_sdxl/cg_serving_coffee.png",
+        "status": "success"
+      },
+      "cg_reading_book": {
+        "time": 3.13,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/ipadapter_sdxl/cg_reading_book.png",
+        "status": "success"
+      },
+      "cg_multi_working_together": {
+        "time": 3.11,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/ipadapter_sdxl/cg_multi_working_together.png",
+        "status": "success"
+      }
+    },
+    "status": "success"
+  },
+  "sdxl_inpaint": {
+    "results": {
+      "inpaint_happy": {
+        "time": 2.26,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/sdxl_inpaint/inpaint_happy.png",
+        "status": "success"
+      },
+      "inpaint_sad": {
+        "time": 2.06,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/sdxl_inpaint/inpaint_sad.png",
+        "status": "success"
+      },
+      "inpaint_angry": {
+        "time": 2.07,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/sdxl_inpaint/inpaint_angry.png",
+        "status": "success"
+      },
+      "inpaint_surprised": {
+        "time": 2.06,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/sdxl_inpaint/inpaint_surprised.png",
+        "status": "success"
+      }
+    },
+    "status": "success"
+  }
+}
