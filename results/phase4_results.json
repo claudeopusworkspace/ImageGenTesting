@@ -355,5 +355,45 @@
       }
     },
     "status": "success"
+  },
+  "omnigen2_multi": {
+    "results": {
+      "working_together": {
+        "time": 56.71,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/multi_character/omnigen2_multi/working_together.png",
+        "status": "success"
+      },
+      "studying_together": {
+        "time": 53.0,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/multi_character/omnigen2_multi/studying_together.png",
+        "status": "success"
+      },
+      "arguing_playfully": {
+        "time": 52.02,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/multi_character/omnigen2_multi/arguing_playfully.png",
+        "status": "success"
+      }
+    },
+    "status": "success"
+  },
+  "longcat_multi": {
+    "results": {
+      "working_together": {
+        "time": 55.76,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/multi_character/longcat_multi/working_together.png",
+        "status": "success"
+      },
+      "studying_together": {
+        "time": 33.62,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/multi_character/longcat_multi/studying_together.png",
+        "status": "success"
+      },
+      "arguing_playfully": {
+        "time": 33.2,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/multi_character/longcat_multi/arguing_playfully.png",
+        "status": "success"
+      }
+    },
+    "status": "success"
   }
 }
