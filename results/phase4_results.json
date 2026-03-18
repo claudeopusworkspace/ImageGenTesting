@@ -316,5 +316,44 @@
       }
     },
     "status": "success"
+  },
+  "qwen_multi": {
+    "results": {
+      "working_together": {
+        "status": "error",
+        "error": "No output image"
+      },
+      "studying_together": {
+        "time": 74.05,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/multi_character/qwen_multi/studying_together.png",
+        "status": "success"
+      },
+      "arguing_playfully": {
+        "time": 72.04,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/multi_character/qwen_multi/arguing_playfully.png",
+        "status": "success"
+      }
+    },
+    "status": "success"
+  },
+  "kontext_multi": {
+    "results": {
+      "working_together": {
+        "time": 44.5,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/multi_character/kontext_multi/working_together.png",
+        "status": "success"
+      },
+      "studying_together": {
+        "time": 34.07,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/multi_character/kontext_multi/studying_together.png",
+        "status": "success"
+      },
+      "arguing_playfully": {
+        "time": 33.01,
+        "file": "/workspace/ImageGenTesting/outputs/phase4_editing/multi_character/kontext_multi/arguing_playfully.png",
+        "status": "success"
+      }
+    },
+    "status": "success"
   }
 }
